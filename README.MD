@@ -30,9 +30,9 @@ Los documentos tienen este formato
 Nos interesa fusionar los documentos en un único excel/csv con este aspecto
 
 | Nombre archivo | NÚMERO | TITULO | AUTOR PLÁSTICO | AUTOR TEXTO | ILUSTRACIÓN | ... |
-|-|-|-|-|-|-|-|
+|----------------|--------|--------|----------------|-------------|-------------|-----|
 |1965_001 PINTURES D´ANTONI MIRÓ.xlsx | 1965/001 | PINTURES D´ANTONI MIRÓ | ANTONI MIRÓ |  |COLOR | ... |
-  |1965_001 PINTURES D´ANTONI MIRÓ.xlsx | 1965/001 | PINTURES D´ANTONI MIRÓ | ANTONI MIRÓ |  |COLOR | ... |
+|1965_001 PINTURES D´ANTONI MIRÓ.xlsx | 1965/001 | PINTURES D´ANTONI MIRÓ | ANTONI MIRÓ |  |COLOR | ... |
 
 ## Procedimiento
 1. Abrir cada uno de los archivo excel del directorio
